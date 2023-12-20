@@ -1,4 +1,4 @@
-HTTrack3.49-2+htsswf+htsjava launched on Wed, 20 Dec 2023 09:41:50 at http://localhost/pastorscott/speaking/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 20 Dec 2023 10:33:08 at http://localhost/pastorscott/speaking/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
 (winhttrack -qiC2%Ps2u1%s%uN1%I0p7DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/pastorscott/speaking/ -O1 "C:\Users\scott\Desktop\pastorscott2\speaking" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
@@ -6,684 +6,560 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-09:42:32	Error: 	"Not Found" (404) at link localhost/pastorscott/speaking/index.php/category/pastor scott cundiff/ (from localhost/pastorscott/speaking/)
-09:43:34	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1766
-09:43:34	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1766 to http://localhost/pastorscott/speaking/index.php/about/
-09:43:34	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3507
-09:43:34	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3507 to http://localhost/pastorscott/speaking/index.php/tag-cloud/
-09:44:01	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 9673): localhost/pastorscott/speaking/wp-content/uploads/dynamic-mobmenu.css?ver=2.8.4-248
-09:44:23	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3306
-09:44:23	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3306 to http://localhost/pastorscott/speaking/index.php/minister-to-children/
-09:44:32	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=969
-09:44:32	Warning: 	File has moved from localhost/pastorscott/speaking/?p=969 to http://localhost/pastorscott/speaking/index.php/christmas-is-a-hard-time-for-a-lot-of-people/
-09:44:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3084
-09:44:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3084 to http://localhost/pastorscott/speaking/index.php/advice-to-young-pastors-preach-the-gospel/
-09:44:39	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 9673): localhost/pastorscott/speaking/wp-content/uploads/dynamic-mobmenu.css?ver=2.8.4-118
-09:44:45	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3062
-09:44:45	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3062 to http://localhost/pastorscott/speaking/index.php/coronaverses-wrap-up/
-09:44:47	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3058
-09:44:47	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3058 to http://localhost/pastorscott/speaking/index.php/coronaverses-43/
-09:44:47	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3056
-09:44:47	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3056 to http://localhost/pastorscott/speaking/index.php/coronaverses-42/
-09:44:47	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3054
-09:44:47	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3054 to http://localhost/pastorscott/speaking/index.php/coronaverses-41/
-09:44:47	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3052
-09:44:47	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3052 to http://localhost/pastorscott/speaking/index.php/coronaverses-40/
-09:44:47	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3050
-09:44:47	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3050 to http://localhost/pastorscott/speaking/index.php/coronaverses-39/
-09:44:47	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3048
-09:44:47	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3048 to http://localhost/pastorscott/speaking/index.php/coronaverses-38/
-09:45:04	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 9673): localhost/pastorscott/speaking/wp-content/uploads/dynamic-mobmenu.css?ver=2.8.4-898
-09:45:14	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2919
-09:45:14	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2919 to http://localhost/pastorscott/speaking/index.php/maybe-pastors-should-stop-talking-about-football/
-09:45:15	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2833
-09:45:15	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2833 to http://localhost/pastorscott/speaking/index.php/pastor-this-is-real-commitment/
-09:45:15	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2758
-09:45:15	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2758 to http://localhost/pastorscott/speaking/index.php/looking-for-a-pastor/
-09:45:15	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2570
-09:45:15	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2570 to http://localhost/pastorscott/speaking/index.php/advise-to-young-pastors-baptism/
-09:45:15	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2259
-09:45:15	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2259 to http://localhost/pastorscott/speaking/index.php/after-communion/
-09:45:15	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2240
-09:45:15	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2240 to http://localhost/pastorscott/speaking/index.php/thinking-about-pastor-appreciation/
-09:45:15	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2221
-09:45:15	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2221 to http://localhost/pastorscott/speaking/index.php/how-well-is-your-church-entrance-marked/
-09:45:15	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2132
-09:45:15	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2132 to http://localhost/pastorscott/speaking/index.php/advice-to-young-pastors-annual-meetings-1/
-09:45:15	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2257
-09:45:15	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2257 to http://localhost/pastorscott/speaking/index.php/communion/
-09:45:15	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=782
-09:45:15	Warning: 	File has moved from localhost/pastorscott/speaking/?p=782 to http://localhost/pastorscott/speaking/index.php/if-you-have-a-child-who-is-away-from-god-today/
-09:45:15	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2893
-09:45:15	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2893 to http://localhost/pastorscott/speaking/index.php/have-church-people-stopped-singing/
-09:45:15	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2553
-09:45:15	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2553 to http://localhost/pastorscott/speaking/index.php/reflections-on-the-second-anniversary-of-my-retirement/
-09:45:15	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1453
-09:45:15	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1453 to http://localhost/pastorscott/speaking/index.php/at-the-pearly-gates/
-09:45:15	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2972
-09:45:15	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2972 to http://localhost/pastorscott/speaking/index.php/coronaverses-04/
-09:45:17	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2540
-09:45:17	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2540 to http://localhost/pastorscott/speaking/index.php/thinking-about-the-tomb-that-first-easter-morning/
-09:45:17	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2653
-09:45:17	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2653 to http://localhost/pastorscott/speaking/index.php/pastors-need-mondays/
-09:45:18	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2342
-09:45:18	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2342 to http://localhost/pastorscott/speaking/index.php/on-the-subject-of-forgiveness/
-09:45:18	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2179
-09:45:18	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2179 to http://localhost/pastorscott/speaking/index.php/reading-the-word-of-the-lord/
-09:45:18	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2173
-09:45:18	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2173 to http://localhost/pastorscott/speaking/index.php/god-sometimes-colors-outside-the-lines/
-09:45:19	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2346
-09:45:19	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2346 to http://localhost/pastorscott/speaking/index.php/my-how-things-have-changed/
-09:45:19	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1437
-09:45:19	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1437 to http://localhost/pastorscott/speaking/index.php/holy-week-scripture-readings/
-09:45:19	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1394
-09:45:19	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1394 to http://localhost/pastorscott/speaking/index.php/nazarenes-the-bible-fundamentalism/
-09:45:19	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1273
-09:45:19	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1273 to http://localhost/pastorscott/speaking/index.php/battle-for-the-bible-2/
-09:45:20	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=785
-09:45:20	Warning: 	File has moved from localhost/pastorscott/speaking/?p=785 to http://localhost/pastorscott/speaking/index.php/god-and-history/
-09:45:20	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2614
-09:45:20	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2614 to http://localhost/pastorscott/speaking/index.php/preaching-for-decisions-know-when-to-land-the-sermon/
-09:45:20	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2285
-09:45:20	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2285 to http://localhost/pastorscott/speaking/index.php/contemporary-worship-things-that-bug-me/
-09:45:21	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2217
-09:45:21	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2217 to http://localhost/pastorscott/speaking/index.php/church-website-advice/
-09:45:21	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2544
-09:45:21	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2544 to http://localhost/pastorscott/speaking/index.php/good-friday-is-a-no-parking-zone/
-09:45:21	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2655
-09:45:21	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2655 to http://localhost/pastorscott/speaking/index.php/pastor-appreciation-why-some-churches-dont-do-it/
-09:45:22	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2591
-09:45:22	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2591 to http://localhost/pastorscott/speaking/index.php/the-biggest-single-change-for-pastors/
-09:45:22	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1818
-09:45:22	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1818 to http://localhost/pastorscott/speaking/index.php/preaching-advice-for-young-pastors-preach-an-annual-message/
-09:45:22	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1803
-09:45:22	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1803 to http://localhost/pastorscott/speaking/index.php/learning-to-laugh-at-yourself/
-09:45:22	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3046
-09:45:22	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3046 to http://localhost/pastorscott/speaking/index.php/coronaverses-37/
-09:45:23	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3044
-09:45:23	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3044 to http://localhost/pastorscott/speaking/index.php/coronaverses-36/
-09:45:23	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3040
-09:45:23	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3040 to http://localhost/pastorscott/speaking/index.php/coronaverses-35/
-09:45:26	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3038
-09:45:26	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3038 to http://localhost/pastorscott/speaking/index.php/coronaverses-34/
-09:45:26	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3035
-09:45:26	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3035 to http://localhost/pastorscott/speaking/index.php/coronaverses-33/
-09:45:27	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3033
-09:45:27	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3033 to http://localhost/pastorscott/speaking/index.php/coronaverses-32/
-09:45:27	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3031
-09:45:27	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3031 to http://localhost/pastorscott/speaking/index.php/coronaverses-31/
-09:45:27	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3028
-09:45:27	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3028 to http://localhost/pastorscott/speaking/index.php/coronaverses-30/
-09:45:27	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3026
-09:45:27	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3026 to http://localhost/pastorscott/speaking/index.php/coronaverses-29/
-09:45:28	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3024
-09:45:28	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3024 to http://localhost/pastorscott/speaking/index.php/coronaverses-28/
-09:45:37	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=817
-09:45:37	Warning: 	File has moved from localhost/pastorscott/speaking/?p=817 to http://localhost/pastorscott/speaking/index.php/911-we-remember/
-09:45:37	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=802
-09:45:37	Warning: 	File has moved from localhost/pastorscott/speaking/?p=802 to http://localhost/pastorscott/speaking/index.php/humor-of-abraham-lincoln/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=901
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=901 to http://localhost/pastorscott/speaking/index.php/a-pastor-appreciating-fine-lay-people/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1805
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1805 to http://localhost/pastorscott/speaking/index.php/quote-from-pf-bresee-concerning-nazarene-doctrine/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2277
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2277 to http://localhost/pastorscott/speaking/index.php/reflections-on-the-1st-anniversary-of-my-retirement/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1695
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1695 to http://localhost/pastorscott/speaking/index.php/plugged-and-unplugged-2/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1392
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1392 to http://localhost/pastorscott/speaking/index.php/cutting-and-slashing-in-jesus-name/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=801
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=801 to http://localhost/pastorscott/speaking/index.php/wish-i-had-said-that/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1465
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1465 to http://localhost/pastorscott/speaking/index.php/great-holiness-song/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2632
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2632 to http://localhost/pastorscott/speaking/index.php/during-communion/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=806
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=806 to http://localhost/pastorscott/speaking/index.php/who-is-god/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2748
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2748 to http://localhost/pastorscott/speaking/index.php/holy-saturday/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2744
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2744 to http://localhost/pastorscott/speaking/index.php/good-friday/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2536
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2536 to http://localhost/pastorscott/speaking/index.php/thinking-about-good-friday/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1439
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1439 to http://localhost/pastorscott/speaking/index.php/at-the-cross/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2626
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2626 to http://localhost/pastorscott/speaking/index.php/sing-it-right-christ-arose/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1441
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1441 to http://localhost/pastorscott/speaking/index.php/great-easter-quote/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=793
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=793 to http://localhost/pastorscott/speaking/index.php/the-elder-brother/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1413
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1413 to http://localhost/pastorscott/speaking/index.php/playing-ecclesiastical-space-invaders/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=781
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=781 to http://localhost/pastorscott/speaking/index.php/christians-should-walk-the-talk/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=835
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=835 to http://localhost/pastorscott/speaking/index.php/memorial-day-thoughts/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=843
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=843 to http://localhost/pastorscott/speaking/index.php/heart-and-doctrine/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=805
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=805 to http://localhost/pastorscott/speaking/index.php/funeral-for-a-baby-that-didnt-make-it-to-birth/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1798
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1798 to http://localhost/pastorscott/speaking/index.php/preaching-advice-for-young-pastors-funerals-part-3/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1796
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1796 to http://localhost/pastorscott/speaking/index.php/preaching-advice-for-young-pastors-funerals-part-2/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1794
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1794 to http://localhost/pastorscott/speaking/index.php/preaching-advice-for-young-pastors-funerals-part-1/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=803
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=803 to http://localhost/pastorscott/speaking/index.php/preaching-on-second-blessing-holiness/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=788
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=788 to http://localhost/pastorscott/speaking/index.php/a-holy-god-and-a-holy-people/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=819
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=819 to http://localhost/pastorscott/speaking/index.php/hurricanes-and-the-return-of-christ/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=813
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=813 to http://localhost/pastorscott/speaking/index.php/clothes-gluttons/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1387
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1387 to http://localhost/pastorscott/speaking/index.php/what-to-think-of-someone-who-accuses-us-of-telling-lies-or-says-other-unkind-things-about-us/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=853
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=853 to http://localhost/pastorscott/speaking/index.php/j-hudson-taylor-on-prayer/
-09:45:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=799
-09:45:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=799 to http://localhost/pastorscott/speaking/index.php/inspirational-story-of-gohn-geddie/
-09:45:40	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=865
-09:45:40	Warning: 	File has moved from localhost/pastorscott/speaking/?p=865 to http://localhost/pastorscott/speaking/index.php/in-search-of-mediocrity/
-09:45:40	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1784
-09:45:40	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1784 to http://localhost/pastorscott/speaking/index.php/confession-of-a-non-liturgical-pastor/
-09:45:41	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1789
-09:45:41	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1789 to http://localhost/pastorscott/speaking/index.php/preaching-advice-for-young-pastors-mothers-day/
-09:45:41	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1525
-09:45:41	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1525 to http://localhost/pastorscott/speaking/index.php/pastor-appreciation-take-the-day-off/
-09:45:41	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1360
-09:45:41	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1360 to http://localhost/pastorscott/speaking/index.php/more-and-more-pastor-appreciation/
-09:45:41	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1353
-09:45:41	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1353 to http://localhost/pastorscott/speaking/index.php/its-pastor-appreciation-month/
-09:45:42	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=795
-09:45:42	Warning: 	File has moved from localhost/pastorscott/speaking/?p=795 to http://localhost/pastorscott/speaking/index.php/value-of-prayer/
-09:45:42	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=809
-09:45:42	Warning: 	File has moved from localhost/pastorscott/speaking/?p=809 to http://localhost/pastorscott/speaking/index.php/reverend-pastor-preacher-father/
-09:45:42	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2209
-09:45:42	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2209 to http://localhost/pastorscott/speaking/index.php/previenent-grace-along-the-highway/
-09:45:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2219
-09:45:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2219 to http://localhost/pastorscott/speaking/index.php/preparing-the-church-for-a-pastoral-sabbatical/
-09:45:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2599
-09:45:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2599 to http://localhost/pastorscott/speaking/index.php/contemporary-worship-in-a-traditional-sanctuary/
-09:45:44	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2966
-09:45:44	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2966 to http://localhost/pastorscott/speaking/index.php/coronaverses-1/
-09:45:45	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2970
-09:45:45	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2970 to http://localhost/pastorscott/speaking/index.php/coronaverses-03/
-09:45:46	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2974
-09:45:46	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2974 to http://localhost/pastorscott/speaking/index.php/coronaverses-05/
-09:45:48	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1620
-09:45:48	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1620 to http://localhost/pastorscott/speaking/index.php/pastors-day-off-and-other-pastortime-issues/
-09:45:48	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3022
-09:45:48	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3022 to http://localhost/pastorscott/speaking/index.php/coronaverses-27/
-09:45:48	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3020
-09:45:48	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3020 to http://localhost/pastorscott/speaking/index.php/coronaverses-26/
-09:45:48	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3018
-09:45:48	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3018 to http://localhost/pastorscott/speaking/index.php/coronaverses-25/
-09:45:49	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 9673): localhost/pastorscott/speaking/wp-content/uploads/dynamic-mobmenu.css?ver=2.8.4-680
-09:45:51	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3016
-09:45:51	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3016 to http://localhost/pastorscott/speaking/index.php/coronaverses-24/
-09:45:51	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3013
-09:45:51	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3013 to http://localhost/pastorscott/speaking/index.php/coronaverses-23/
-09:45:51	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3011
-09:45:51	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3011 to http://localhost/pastorscott/speaking/index.php/coronaverses-22/
-09:45:51	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3009
-09:45:51	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3009 to http://localhost/pastorscott/speaking/index.php/coronaverses-21/
-09:45:51	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3006
-09:45:51	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3006 to http://localhost/pastorscott/speaking/index.php/coronaverses-20/
-09:45:51	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3004
-09:45:51	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3004 to http://localhost/pastorscott/speaking/index.php/coronaverses-19/
-09:45:51	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3002
-09:45:51	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3002 to http://localhost/pastorscott/speaking/index.php/coronaverses-18/
-09:45:57	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 9673): localhost/pastorscott/speaking/wp-content/uploads/dynamic-mobmenu.css?ver=2.8.4-507
-09:46:03	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2968
-09:46:03	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2968 to http://localhost/pastorscott/speaking/index.php/coronaverses-2/
-09:46:03	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2976
-09:46:03	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2976 to http://localhost/pastorscott/speaking/index.php/coronaverses-06/
-09:46:03	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3000
-09:46:03	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3000 to http://localhost/pastorscott/speaking/index.php/coronaverses-17/
-09:46:03	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2997
-09:46:03	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2997 to http://localhost/pastorscott/speaking/index.php/coronaverses-16/
-09:46:03	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2995
-09:46:03	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2995 to http://localhost/pastorscott/speaking/index.php/coronaverses-15/
-09:46:04	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2993
-09:46:04	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2993 to http://localhost/pastorscott/speaking/index.php/coronaverses-14/
-09:46:04	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2991
-09:46:04	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2991 to http://localhost/pastorscott/speaking/index.php/coronaverses-13/
-09:46:04	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2989
-09:46:04	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2989 to http://localhost/pastorscott/speaking/index.php/coronaverses-12/
-09:46:04	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2987
-09:46:04	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2987 to http://localhost/pastorscott/speaking/index.php/coronaverses-11/
-09:46:05	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2984
-09:46:05	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2984 to http://localhost/pastorscott/speaking/index.php/coronaverses-10/
-09:46:05	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2982
-09:46:05	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2982 to http://localhost/pastorscott/speaking/index.php/coronaverses-09/
-09:46:05	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2980
-09:46:05	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2980 to http://localhost/pastorscott/speaking/index.php/coronaverses-08/
-09:46:08	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2978
-09:46:08	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2978 to http://localhost/pastorscott/speaking/index.php/coronaverses-07/
-09:46:31	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2023/12/cropped-sky.jpg (from localhost/pastorscott/speaking/)
-09:46:33	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2008/12/Christmas.jpg (from localhost/pastorscott/speaking/)
-09:46:37	Warning: 	HTML file (18531 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/author/grscott/feed/
-09:46:37	Warning: 	HTML file (18540 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/category/ministerially_speaking/feed/
-09:46:38	Warning: 	HTML file (39633 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/advice/feed/
-09:46:41	Warning: 	HTML file (13488 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/children/feed/
-09:46:42	Warning: 	HTML file (37832 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/church/feed/
-09:46:44	Warning: 	HTML file (30203 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/category/uncategorized/feed/
-09:46:46	Warning: 	HTML file (4657 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/christmas/feed/
-09:46:46	Warning: 	HTML file (4655 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/emmanuel/feed/
-09:46:47	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1766
-09:46:47	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1766 to http://localhost/pastorscott/speaking/index.php/about/
-09:46:47	Warning: 	HTML file (4651 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/grinch/feed/
-09:46:47	Warning: 	Moved Permanently for pastorscott.com/wp-content/uploads/2013/01/P2028657.jpg
-09:46:47	Warning: 	Redirected link is identical because of 'URL Hack' option: pastorscott.com/wp-content/uploads/2013/01/P2028657.jpg and https://pastorscott.com/wp-content/uploads/2013/01/P2028657.jpg
-09:46:47	Warning: 	Warning moved treated for pastorscott.com/wp-content/uploads/2013/01/P2028657.jpg (real one is https://pastorscott.com/wp-content/uploads/2013/01/P2028657.jpg)
-09:46:47	Warning: 	Moved Permanently for pastorscott.com/wp-content/uploads/2013/01/P2028657-300x239.jpg
-09:46:47	Warning: 	Redirected link is identical because of 'URL Hack' option: pastorscott.com/wp-content/uploads/2013/01/P2028657-300x239.jpg and https://pastorscott.com/wp-content/uploads/2013/01/P2028657-300x239.jpg
-09:46:47	Warning: 	Warning moved treated for pastorscott.com/wp-content/uploads/2013/01/P2028657-300x239.jpg (real one is https://pastorscott.com/wp-content/uploads/2013/01/P2028657-300x239.jpg)
-09:46:47	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3507
-09:46:47	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3507 to http://localhost/pastorscott/speaking/index.php/tag-cloud/
-09:46:47	Warning: 	HTML file (25778 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/bible/feed/
-09:46:49	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3306
-09:46:49	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3306 to http://localhost/pastorscott/speaking/index.php/minister-to-children/
-09:46:49	Warning: 	HTML file (30813 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/ministry/feed/
-09:46:50	Warning: 	HTML file (42430 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/pastor/feed/
-09:46:52	Warning: 	HTML file (39026 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/preaching/feed/
-09:46:52	Warning: 	HTML file (19919 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/sermons/feed/
-09:46:53	Warning: 	HTML file (11015 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/coronaverses/feed/
-09:46:55	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2019/12/heismen.jpg (from localhost/pastorscott/speaking/index.php/tag/advice/)
-09:46:57	Error: 	"Not Found" (404) at link localhost/pastorscott.speaking/wp-content/uploads/2018/04/checkmark-149x150.png (from localhost/pastorscott/speaking/index.php/tag/advice/)
-09:46:57	Error: 	"Not Found" (404) at link localhost/pastorscott.speaking/wp-content/uploads/2018/04/facebook-mobile-app-820x4201-150x150.jpg (from localhost/pastorscott/speaking/index.php/tag/advice/)
-09:46:57	Error: 	"Not Found" (404) at link localhost/pastorscott.speaking/wp-content/uploads/2014/01/thimbles.jpg (from localhost/pastorscott/speaking/index.php/tag/advice/)
-09:47:00	Warning: 	HTML file (4271 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/911/feed/
-09:47:00	Warning: 	HTML file (3332 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/abraham-lincoln/feed/
-09:47:01	Warning: 	HTML file (4726 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/appreciation/feed/
-09:47:02	Warning: 	HTML file (3529 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/blunders/feed/
-09:47:03	Warning: 	HTML file (4156 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/brezee/feed/
-09:47:03	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2014/01/communion.jpg (from localhost/pastorscott/speaking/index.php/tag/children/)
-09:47:03	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2014/01/communion-300x200.jpg (from localhost/pastorscott/speaking/index.php/tag/children/)
-09:47:03	Warning: 	HTML file (12655 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/camping/feed/
-09:47:03	Warning: 	HTML file (4571 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/carnality/feed/
-09:47:04	Warning: 	HTML file (1879 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/change/feed/
-09:47:05	Warning: 	HTML file (40319 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/church-of-the-nazarene/feed/
-09:47:05	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2019/09/worship.jpg (from localhost/pastorscott/speaking/index.php/tag/church/)
-09:47:05	Warning: 	HTML file (1912 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/church-video/feed/
-09:47:05	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2019/09/worship-1024x594.jpg (from localhost/pastorscott/speaking/index.php/tag/church/)
-09:47:05	Error: 	"Forbidden" (403) at link lh3.googleusercontent.com/-wEHgGRKUmXI/U5Un2kkrASI/AAAAAAAAdDA/D6gbHoi9570/s0/IMG_2465.JPG (from localhost/pastorscott/speaking/index.php/tag/church/)
-09:47:05	Error: 	"Forbidden" (403) at link lh3.googleusercontent.com/-V-su8JXTUk0/VR7WLHIHSGI/AAAAAAAAiJo/iekZI0iKK4M/s0-d/100_3734.JPG (from localhost/pastorscott/speaking/index.php/tag/church/)
-09:47:05	Warning: 	HTML file (7895 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/commitment/feed/
-09:47:05	Error: 	"Forbidden" (403) at link lh3.googleusercontent.com/-maQHi2VWjmA/VUakLGOoygI/AAAAAAAAibM/5tIVKYGifsk/s0-d/clearlakenaz.jpg (from localhost/pastorscott/speaking/index.php/tag/church/)
-09:47:05	Error: 	"Forbidden" (403) at link lh3.googleusercontent.com/-YXwj6XJ5934/VR7brsq-sFI/AAAAAAAAiPY/_01Gy3AJm9s/s0/PHOTO_20150130_145029.jpg (from localhost/pastorscott/speaking/index.php/tag/church/)
-09:47:05	Warning: 	HTML file (20438 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/communion/feed/
-09:47:06	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=969
-09:47:06	Warning: 	File has moved from localhost/pastorscott/speaking/?p=969 to http://localhost/pastorscott/speaking/index.php/christmas-is-a-hard-time-for-a-lot-of-people/
-09:47:06	Warning: 	HTML file (3196 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/creator/feed/
-09:47:06	Warning: 	HTML file (8546 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/cross/feed/
-09:47:08	Warning: 	HTML file (2319 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/crucifixion/feed/
-09:47:09	Warning: 	HTML file (4158 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/debates/feed/
-09:47:09	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2015/04/empty-tomb.jpg (from localhost/pastorscott/speaking/index.php/category/uncategorized/)
-09:47:09	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2015/04/empty-tomb-300x196.jpg (from localhost/pastorscott/speaking/index.php/category/uncategorized/)
-09:47:09	Warning: 	HTML file (5651 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/devotinal-reading/feed/
-09:47:09	Warning: 	HTML file (4278 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/doctrine/feed/
-09:47:10	Warning: 	HTML file (17223 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/easter/feed/
-09:47:11	Warning: 	HTML file (3426 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/elder-brother/feed/
-09:47:11	Warning: 	HTML file (3081 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/electricity/feed/
-09:47:11	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3084
-09:47:11	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3084 to http://localhost/pastorscott/speaking/index.php/advice-to-young-pastors-preach-the-gospel/
-09:47:11	Warning: 	HTML file (4079 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/emergent/feed/
-09:47:11	Warning: 	HTML file (13134 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/faith/feed/
-09:47:12	Warning: 	HTML file (2913 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/faithfulness/feed/
-09:47:13	Warning: 	HTML file (3278 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/freedom/feed/
-09:47:13	Warning: 	HTML file (3899 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/fresh-wind-fresh-fire/feed/
-09:47:14	Warning: 	HTML file (4094 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/fundamentalism/feed/
-09:47:15	Warning: 	HTML file (4091 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/fundamentalist/feed/
-09:47:15	Warning: 	HTML file (4247 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/funeral/feed/
-09:47:16	Warning: 	HTML file (8566 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/funerals/feed/
-09:47:16	Warning: 	HTML file (14183 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/gods-grace/feed/
-09:47:17	Warning: 	HTML file (8472 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/good-friday/feed/
-09:47:17	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2017/03/landing.jpeg (from localhost/pastorscott/speaking/index.php/tag/ministry/)
-09:47:17	Warning: 	HTML file (3426 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/good-shepherd/feed/
-09:47:17	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2017/03/landing-300x213.jpeg (from localhost/pastorscott/speaking/index.php/tag/ministry/)
-09:47:17	Warning: 	HTML file (8402 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/history/feed/
-09:47:18	Warning: 	HTML file (14666 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/holiness/feed/
-09:47:19	Warning: 	HTML file (2196 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/holy-week/feed/
-09:47:19	Warning: 	HTML file (5877 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/humor/feed/
-09:47:19	Warning: 	HTML file (6070 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/hurricane/feed/
-09:47:20	Warning: 	HTML file (3085 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/hurricane-ike/feed/
-09:47:21	Warning: 	HTML file (6080 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/hurricane-rita/feed/
-09:47:21	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2015/04/parking.jpg (from localhost/pastorscott/speaking/index.php/tag/pastor/)
-09:47:21	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2017/10/thumbsup.png (from localhost/pastorscott/speaking/index.php/tag/pastor/)
-09:47:21	Warning: 	HTML file (8627 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/hurt/feed/
-09:47:21	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2017/10/thumbsup-163x300.png (from localhost/pastorscott/speaking/index.php/tag/pastor/)
-09:47:21	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2016/09/preaching.png (from localhost/pastorscott/speaking/index.php/tag/pastor/)
-09:47:21	Warning: 	HTML file (4951 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/internet/feed/
-09:47:21	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2016/09/preaching-300x126.png (from localhost/pastorscott/speaking/index.php/tag/pastor/)
-09:47:21	Warning: 	HTML file (2346 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/j-hudson-taylor/feed/
-09:47:22	Warning: 	HTML file (3879 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/jim-cymbala/feed/
-09:47:22	Warning: 	HTML file (2687 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/john-geddie/feed/
-09:47:23	Warning: 	HTML file (2817 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/joke/feed/
-09:47:24	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3062
-09:47:24	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3062 to http://localhost/pastorscott/speaking/index.php/coronaverses-wrap-up/
-09:47:24	Warning: 	HTML file (2926 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/keith-drury/feed/
-09:47:24	Warning: 	HTML file (4720 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/laypeople/feed/
-09:47:25	Warning: 	HTML file (4079 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/liberals/feed/
-09:47:26	Warning: 	HTML file (4241 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/life/feed/
-09:47:26	Warning: 	HTML file (3988 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/liturgy/feed/
-09:47:27	Warning: 	HTML file (15276 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/lords-supper/feed/
-09:47:27	Warning: 	HTML file (10585 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/love/feed/
-09:47:28	Warning: 	HTML file (3288 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/memorial-day/feed/
-09:47:28	Warning: 	HTML file (2685 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/missionary/feed/
-09:47:29	Warning: 	HTML file (3186 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/mothers/feed/
-09:47:30	Warning: 	HTML file (17831 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/music/feed/
-09:47:30	Warning: 	HTML file (3629 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/nazarene/feed/
-09:47:31	Warning: 	HTML file (34994 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/nazarenes/feed/
-09:47:31	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3058
-09:47:31	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3058 to http://localhost/pastorscott/speaking/index.php/coronaverses-43/
-09:47:31	Warning: 	HTML file (2689 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/new-hebrides/feed/
-09:47:31	Warning: 	HTML file (2919 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/oswald-chambers/feed/
-09:47:32	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3056
-09:47:32	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3056 to http://localhost/pastorscott/speaking/index.php/coronaverses-42/
-09:47:32	Warning: 	HTML file (8627 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/pain/feed/
-09:47:32	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3054
-09:47:32	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3054 to http://localhost/pastorscott/speaking/index.php/coronaverses-41/
-09:47:32	Warning: 	HTML file (15249 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/pastor-appreciation/feed/
-09:47:33	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3052
-09:47:33	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3052 to http://localhost/pastorscott/speaking/index.php/coronaverses-40/
-09:47:33	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3050
-09:47:33	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3050 to http://localhost/pastorscott/speaking/index.php/coronaverses-39/
-09:47:33	Warning: 	HTML file (45017 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/pastoring/feed/
-09:47:33	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3048
-09:47:33	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3048 to http://localhost/pastorscott/speaking/index.php/coronaverses-38/
-09:47:34	Warning: 	HTML file (32634 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/pastors/feed/
-09:47:34	Warning: 	HTML file (14446 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/pastor-scott-cundiff/feed/
-09:47:35	Warning: 	HTML file (3198 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/patience/feed/
-09:47:36	Warning: 	HTML file (3742 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/prayer/feed/
-09:47:36	Warning: 	HTML file (4292 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/preacher/feed/
-09:47:37	Warning: 	HTML file (8788 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/prevenient-grace/feed/
-09:47:38	Warning: 	HTML file (3424 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/prodigal-son/feed/
-09:47:38	Warning: 	HTML file (3595 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/purity/feed/
-09:47:39	Warning: 	HTML file (4728 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/resurrection/feed/
-09:47:39	Warning: 	HTML file (10550 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/retirement/feed/
-09:47:40	Warning: 	HTML file (4292 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/reverend/feed/
-09:47:41	Warning: 	HTML file (12316 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/sabbatical-leave/feed/
-09:47:41	Warning: 	HTML file (17636 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/sacraments/feed/
-09:47:42	Warning: 	HTML file (2315 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/sacrifice/feed/
-09:47:42	Warning: 	HTML file (4280 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/salvation/feed/
-09:47:42	Warning: 	HTML file (6613 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/sanctification/feed/
-09:47:43	Warning: 	HTML file (13163 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/scripture/feed/
-09:47:44	Warning: 	HTML file (2380 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/sd-gordon/feed/
-09:47:45	Warning: 	HTML file (3697 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/second-coming/feed/
-09:47:45	Warning: 	HTML file (6825 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/technology/feed/
-09:47:46	Warning: 	HTML file (4282 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/terrorist/feed/
-09:47:46	Warning: 	HTML file (3288 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/thanksgiving/feed/
-09:47:47	Warning: 	HTML file (15660 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/theology/feed/
-09:47:48	Warning: 	HTML file (26723 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/worship/feed/
-09:47:52	Warning: 	HTML file (6404 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/baptism/feed/
-09:47:56	Error: 	"Forbidden" (403) at link https://lh4.googleusercontent.com/-YGAhC-QYXkY/U2aVH8mGusI/AAAAAAAAbvg/2CsvDHkmfXQ/s800/PHOTO_20140502_173747.jpg (from localhost/pastorscott/speaking/index.php/tag/camping/)
-09:47:56	Warning: 	HTML file (3641 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/annual-meeting/feed/
-09:47:59	Warning: 	HTML file (20213 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/category/pastor-scott-cundiff/feed/
-09:48:04	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2017/08/tray.jpg (from localhost/pastorscott/speaking/index.php/tag/communion/)
-09:48:04	Warning: 	HTML file (1910 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/forgiveness/feed/
-09:48:04	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2017/08/tray-300x225.jpg (from localhost/pastorscott/speaking/index.php/tag/communion/)
-09:48:04	Warning: 	HTML file (1898 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/video/feed/
-09:48:05	Warning: 	HTML file (5643 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/new-testament/feed/
-09:48:06	Warning: 	HTML file (5643 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/old-testament/feed/
-09:48:06	Warning: 	HTML file (5633 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/out-loud/feed/
-09:48:07	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2018/03/1.jpg (from localhost/pastorscott/speaking/index.php/tag/cross/)
-09:48:07	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2018/03/1-300x169.jpg (from localhost/pastorscott/speaking/index.php/tag/cross/)
-09:48:07	Warning: 	HTML file (3455 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/jonah/feed/
-09:48:07	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2018/03/cross.jpg (from localhost/pastorscott/speaking/index.php/tag/cross/)
-09:48:07	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2015/04/old-rugged-cross1.jpg (from localhost/pastorscott/speaking/index.php/tag/cross/)
-09:48:07	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2015/04/old-rugged-cross1-300x200.jpg (from localhost/pastorscott/speaking/index.php/tag/cross/)
-09:48:07	Warning: 	HTML file (3459 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/nineveh/feed/
-09:48:09	Error: 	"Not Found" (404) at link localhost/pastorscott.speaking/wp-content/uploads/2017/04/arose-150x150.jpg (from localhost/pastorscott/speaking/index.php/tag/easter/)
-09:48:09	Warning: 	HTML file (4284 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/wesleyanism/feed/
-09:48:10	Warning: 	HTML file (3741 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/the-message/feed/
-09:48:12	Warning: 	HTML file (4951 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/websites/feed/
-09:48:41	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2009/10/pa185779.jpg (from localhost/pastorscott/speaking/index.php/tag/pastor-appreciation/)
-09:48:41	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2009/10/pa185779-300x225.jpg (from localhost/pastorscott/speaking/index.php/tag/pastor-appreciation/)
-09:48:41	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2009/10/pa185780.jpg (from localhost/pastorscott/speaking/index.php/tag/pastor-appreciation/)
-09:48:41	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2009/10/pa185780-300x225.jpg (from localhost/pastorscott/speaking/index.php/tag/pastor-appreciation/)
-09:48:41	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2009/10/home-of.png (from localhost/pastorscott/speaking/index.php/tag/pastor-appreciation/)
-09:48:41	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2009/10/home-of-300x225.png (from localhost/pastorscott/speaking/index.php/tag/pastor-appreciation/)
-09:48:42	Warning: 	HTML file (3609 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/transcendence/feed/
-09:48:45	Warning: 	HTML file (5024 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/words/feed/
-09:48:48	Warning: 	HTML file (2924 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/the-church/feed/
-09:48:50	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2013/04/2013-04-15-10.32.25.jpg (from localhost/pastorscott/speaking/index.php/tag/prevenient-grace/)
-09:48:50	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2013/04/2013-04-15-10.32.25-300x169.jpg (from localhost/pastorscott/speaking/index.php/tag/prevenient-grace/)
-09:48:52	Warning: 	HTML file (4288 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/titles/feed/
-09:48:52	Warning: 	HTML file (5481 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/grace/feed/
-09:48:53	Warning: 	HTML file (5400 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/contemporary/feed/
-09:48:54	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2016/12/drums-1.jpg (from localhost/pastorscott/speaking/index.php/tag/worship/)
-09:48:54	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2016/12/drums-1-300x168.jpg (from localhost/pastorscott/speaking/index.php/tag/worship/)
-09:48:55	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2919
-09:48:55	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2919 to http://localhost/pastorscott/speaking/index.php/maybe-pastors-should-stop-talking-about-football/
-09:48:56	Warning: 	HTML file (5578 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/time/feed/
-09:48:57	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2833
-09:48:57	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2833 to http://localhost/pastorscott/speaking/index.php/pastor-this-is-real-commitment/
-09:48:57	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2758
-09:48:57	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2758 to http://localhost/pastorscott/speaking/index.php/looking-for-a-pastor/
-09:48:57	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2570
-09:48:57	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2570 to http://localhost/pastorscott/speaking/index.php/advise-to-young-pastors-baptism/
-09:48:58	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2259
-09:48:58	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2259 to http://localhost/pastorscott/speaking/index.php/after-communion/
-09:48:58	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2240
-09:48:58	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2240 to http://localhost/pastorscott/speaking/index.php/thinking-about-pastor-appreciation/
-09:48:59	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2221
-09:48:59	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2221 to http://localhost/pastorscott/speaking/index.php/how-well-is-your-church-entrance-marked/
-09:48:59	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2132
-09:48:59	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2132 to http://localhost/pastorscott/speaking/index.php/advice-to-young-pastors-annual-meetings-1/
-09:49:00	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2257
-09:49:00	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2257 to http://localhost/pastorscott/speaking/index.php/communion/
-09:49:01	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=782
-09:49:01	Warning: 	File has moved from localhost/pastorscott/speaking/?p=782 to http://localhost/pastorscott/speaking/index.php/if-you-have-a-child-who-is-away-from-god-today/
-09:49:01	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2893
-09:49:01	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2893 to http://localhost/pastorscott/speaking/index.php/have-church-people-stopped-singing/
-09:49:01	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2553
-09:49:01	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2553 to http://localhost/pastorscott/speaking/index.php/reflections-on-the-second-anniversary-of-my-retirement/
-09:49:01	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1453
-09:49:01	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1453 to http://localhost/pastorscott/speaking/index.php/at-the-pearly-gates/
-09:49:02	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2972
-09:49:02	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2972 to http://localhost/pastorscott/speaking/index.php/coronaverses-04/
-09:49:04	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2540
-09:49:04	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2540 to http://localhost/pastorscott/speaking/index.php/thinking-about-the-tomb-that-first-easter-morning/
-09:49:04	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2653
-09:49:04	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2653 to http://localhost/pastorscott/speaking/index.php/pastors-need-mondays/
-09:49:05	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2342
-09:49:05	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2342 to http://localhost/pastorscott/speaking/index.php/on-the-subject-of-forgiveness/
-09:49:06	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2179
-09:49:06	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2179 to http://localhost/pastorscott/speaking/index.php/reading-the-word-of-the-lord/
-09:49:06	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2173
-09:49:06	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2173 to http://localhost/pastorscott/speaking/index.php/god-sometimes-colors-outside-the-lines/
-09:49:08	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2346
-09:49:08	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2346 to http://localhost/pastorscott/speaking/index.php/my-how-things-have-changed/
-09:49:08	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1437
-09:49:08	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1437 to http://localhost/pastorscott/speaking/index.php/holy-week-scripture-readings/
-09:49:08	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1394
-09:49:08	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1394 to http://localhost/pastorscott/speaking/index.php/nazarenes-the-bible-fundamentalism/
-09:49:09	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1273
-09:49:09	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1273 to http://localhost/pastorscott/speaking/index.php/battle-for-the-bible-2/
-09:49:09	Warning: 	HTML file (1888 bytes) retransferred due to lack of cache: localhost/pastorscott/speaking/index.php/tag/coronaverse/feed/
-09:49:10	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=785
-09:49:10	Warning: 	File has moved from localhost/pastorscott/speaking/?p=785 to http://localhost/pastorscott/speaking/index.php/god-and-history/
-09:49:10	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2614
-09:49:10	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2614 to http://localhost/pastorscott/speaking/index.php/preaching-for-decisions-know-when-to-land-the-sermon/
-09:49:11	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2285
-09:49:11	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2285 to http://localhost/pastorscott/speaking/index.php/contemporary-worship-things-that-bug-me/
-09:49:11	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2217
-09:49:11	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2217 to http://localhost/pastorscott/speaking/index.php/church-website-advice/
-09:49:11	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2544
-09:49:11	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2544 to http://localhost/pastorscott/speaking/index.php/good-friday-is-a-no-parking-zone/
-09:49:12	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2655
-09:49:12	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2655 to http://localhost/pastorscott/speaking/index.php/pastor-appreciation-why-some-churches-dont-do-it/
-09:49:12	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2591
-09:49:12	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2591 to http://localhost/pastorscott/speaking/index.php/the-biggest-single-change-for-pastors/
-09:49:12	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1818
-09:49:12	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1818 to http://localhost/pastorscott/speaking/index.php/preaching-advice-for-young-pastors-preach-an-annual-message/
-09:49:13	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1803
-09:49:13	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1803 to http://localhost/pastorscott/speaking/index.php/learning-to-laugh-at-yourself/
-09:49:13	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3046
-09:49:13	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3046 to http://localhost/pastorscott/speaking/index.php/coronaverses-37/
-09:49:14	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3044
-09:49:14	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3044 to http://localhost/pastorscott/speaking/index.php/coronaverses-36/
-09:49:14	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3040
-09:49:14	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3040 to http://localhost/pastorscott/speaking/index.php/coronaverses-35/
-09:49:19	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3038
-09:49:19	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3038 to http://localhost/pastorscott/speaking/index.php/coronaverses-34/
-09:49:19	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3035
-09:49:19	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3035 to http://localhost/pastorscott/speaking/index.php/coronaverses-33/
-09:49:20	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3033
-09:49:20	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3033 to http://localhost/pastorscott/speaking/index.php/coronaverses-32/
-09:49:20	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3031
-09:49:20	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3031 to http://localhost/pastorscott/speaking/index.php/coronaverses-31/
-09:49:20	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3028
-09:49:20	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3028 to http://localhost/pastorscott/speaking/index.php/coronaverses-30/
-09:49:20	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3026
-09:49:20	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3026 to http://localhost/pastorscott/speaking/index.php/coronaverses-29/
-09:49:21	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3024
-09:49:21	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3024 to http://localhost/pastorscott/speaking/index.php/coronaverses-28/
-09:49:26	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=817
-09:49:26	Warning: 	File has moved from localhost/pastorscott/speaking/?p=817 to http://localhost/pastorscott/speaking/index.php/911-we-remember/
-09:49:26	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=802
-09:49:26	Warning: 	File has moved from localhost/pastorscott/speaking/?p=802 to http://localhost/pastorscott/speaking/index.php/humor-of-abraham-lincoln/
-09:49:27	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=901
-09:49:27	Warning: 	File has moved from localhost/pastorscott/speaking/?p=901 to http://localhost/pastorscott/speaking/index.php/a-pastor-appreciating-fine-lay-people/
-09:49:27	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1805
-09:49:27	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1805 to http://localhost/pastorscott/speaking/index.php/quote-from-pf-bresee-concerning-nazarene-doctrine/
-09:49:27	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2277
-09:49:27	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2277 to http://localhost/pastorscott/speaking/index.php/reflections-on-the-1st-anniversary-of-my-retirement/
-09:49:27	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1695
-09:49:27	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1695 to http://localhost/pastorscott/speaking/index.php/plugged-and-unplugged-2/
-09:49:28	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1392
-09:49:28	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1392 to http://localhost/pastorscott/speaking/index.php/cutting-and-slashing-in-jesus-name/
-09:49:28	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=801
-09:49:28	Warning: 	File has moved from localhost/pastorscott/speaking/?p=801 to http://localhost/pastorscott/speaking/index.php/wish-i-had-said-that/
-09:49:28	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1465
-09:49:28	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1465 to http://localhost/pastorscott/speaking/index.php/great-holiness-song/
-09:49:28	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2632
-09:49:28	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2632 to http://localhost/pastorscott/speaking/index.php/during-communion/
-09:49:29	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=806
-09:49:29	Warning: 	File has moved from localhost/pastorscott/speaking/?p=806 to http://localhost/pastorscott/speaking/index.php/who-is-god/
-09:49:29	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2748
-09:49:29	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2748 to http://localhost/pastorscott/speaking/index.php/holy-saturday/
-09:49:29	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2744
-09:49:29	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2744 to http://localhost/pastorscott/speaking/index.php/good-friday/
-09:49:29	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2536
-09:49:29	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2536 to http://localhost/pastorscott/speaking/index.php/thinking-about-good-friday/
-09:49:30	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1439
-09:49:30	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1439 to http://localhost/pastorscott/speaking/index.php/at-the-cross/
-09:49:30	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2626
-09:49:30	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2626 to http://localhost/pastorscott/speaking/index.php/sing-it-right-christ-arose/
-09:49:30	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1441
-09:49:30	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1441 to http://localhost/pastorscott/speaking/index.php/great-easter-quote/
-09:49:30	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=793
-09:49:30	Warning: 	File has moved from localhost/pastorscott/speaking/?p=793 to http://localhost/pastorscott/speaking/index.php/the-elder-brother/
-09:49:31	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1413
-09:49:31	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1413 to http://localhost/pastorscott/speaking/index.php/playing-ecclesiastical-space-invaders/
-09:49:31	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=781
-09:49:31	Warning: 	File has moved from localhost/pastorscott/speaking/?p=781 to http://localhost/pastorscott/speaking/index.php/christians-should-walk-the-talk/
-09:49:31	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=835
-09:49:31	Warning: 	File has moved from localhost/pastorscott/speaking/?p=835 to http://localhost/pastorscott/speaking/index.php/memorial-day-thoughts/
-09:49:31	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=843
-09:49:31	Warning: 	File has moved from localhost/pastorscott/speaking/?p=843 to http://localhost/pastorscott/speaking/index.php/heart-and-doctrine/
-09:49:31	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=805
-09:49:31	Warning: 	File has moved from localhost/pastorscott/speaking/?p=805 to http://localhost/pastorscott/speaking/index.php/funeral-for-a-baby-that-didnt-make-it-to-birth/
-09:49:32	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1798
-09:49:32	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1798 to http://localhost/pastorscott/speaking/index.php/preaching-advice-for-young-pastors-funerals-part-3/
-09:49:32	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1796
-09:49:32	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1796 to http://localhost/pastorscott/speaking/index.php/preaching-advice-for-young-pastors-funerals-part-2/
-09:49:32	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1794
-09:49:32	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1794 to http://localhost/pastorscott/speaking/index.php/preaching-advice-for-young-pastors-funerals-part-1/
-09:49:32	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=803
-09:49:32	Warning: 	File has moved from localhost/pastorscott/speaking/?p=803 to http://localhost/pastorscott/speaking/index.php/preaching-on-second-blessing-holiness/
-09:49:33	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=788
-09:49:33	Warning: 	File has moved from localhost/pastorscott/speaking/?p=788 to http://localhost/pastorscott/speaking/index.php/a-holy-god-and-a-holy-people/
-09:49:33	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=819
-09:49:33	Warning: 	File has moved from localhost/pastorscott/speaking/?p=819 to http://localhost/pastorscott/speaking/index.php/hurricanes-and-the-return-of-christ/
-09:49:33	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=813
-09:49:33	Warning: 	File has moved from localhost/pastorscott/speaking/?p=813 to http://localhost/pastorscott/speaking/index.php/clothes-gluttons/
-09:49:33	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1387
-09:49:33	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1387 to http://localhost/pastorscott/speaking/index.php/what-to-think-of-someone-who-accuses-us-of-telling-lies-or-says-other-unkind-things-about-us/
-09:49:34	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=853
-09:49:34	Warning: 	File has moved from localhost/pastorscott/speaking/?p=853 to http://localhost/pastorscott/speaking/index.php/j-hudson-taylor-on-prayer/
-09:49:34	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=799
-09:49:34	Warning: 	File has moved from localhost/pastorscott/speaking/?p=799 to http://localhost/pastorscott/speaking/index.php/inspirational-story-of-gohn-geddie/
-09:49:34	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=865
-09:49:34	Warning: 	File has moved from localhost/pastorscott/speaking/?p=865 to http://localhost/pastorscott/speaking/index.php/in-search-of-mediocrity/
-09:49:34	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1784
-09:49:34	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1784 to http://localhost/pastorscott/speaking/index.php/confession-of-a-non-liturgical-pastor/
-09:49:35	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1789
-09:49:35	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1789 to http://localhost/pastorscott/speaking/index.php/preaching-advice-for-young-pastors-mothers-day/
-09:49:35	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1525
-09:49:35	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1525 to http://localhost/pastorscott/speaking/index.php/pastor-appreciation-take-the-day-off/
-09:49:35	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1360
-09:49:35	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1360 to http://localhost/pastorscott/speaking/index.php/more-and-more-pastor-appreciation/
-09:49:36	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1353
-09:49:36	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1353 to http://localhost/pastorscott/speaking/index.php/its-pastor-appreciation-month/
-09:49:36	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=795
-09:49:36	Warning: 	File has moved from localhost/pastorscott/speaking/?p=795 to http://localhost/pastorscott/speaking/index.php/value-of-prayer/
-09:49:36	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=809
-09:49:36	Warning: 	File has moved from localhost/pastorscott/speaking/?p=809 to http://localhost/pastorscott/speaking/index.php/reverend-pastor-preacher-father/
-09:49:36	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2209
-09:49:36	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2209 to http://localhost/pastorscott/speaking/index.php/previenent-grace-along-the-highway/
-09:49:37	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2219
-09:49:37	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2219 to http://localhost/pastorscott/speaking/index.php/preparing-the-church-for-a-pastoral-sabbatical/
-09:49:37	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2599
-09:49:37	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2599 to http://localhost/pastorscott/speaking/index.php/contemporary-worship-in-a-traditional-sanctuary/
-09:49:37	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2966
-09:49:37	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2966 to http://localhost/pastorscott/speaking/index.php/coronaverses-1/
-09:49:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2970
-09:49:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2970 to http://localhost/pastorscott/speaking/index.php/coronaverses-03/
-09:49:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2974
-09:49:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2974 to http://localhost/pastorscott/speaking/index.php/coronaverses-05/
-09:49:39	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1620
-09:49:39	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1620 to http://localhost/pastorscott/speaking/index.php/pastors-day-off-and-other-pastortime-issues/
-09:49:40	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3022
-09:49:40	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3022 to http://localhost/pastorscott/speaking/index.php/coronaverses-27/
-09:49:40	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3020
-09:49:40	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3020 to http://localhost/pastorscott/speaking/index.php/coronaverses-26/
-09:49:40	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3018
-09:49:40	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3018 to http://localhost/pastorscott/speaking/index.php/coronaverses-25/
-09:49:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3016
-09:49:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3016 to http://localhost/pastorscott/speaking/index.php/coronaverses-24/
-09:49:44	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3013
-09:49:44	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3013 to http://localhost/pastorscott/speaking/index.php/coronaverses-23/
-09:49:44	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3011
-09:49:44	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3011 to http://localhost/pastorscott/speaking/index.php/coronaverses-22/
-09:49:44	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3009
-09:49:44	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3009 to http://localhost/pastorscott/speaking/index.php/coronaverses-21/
-09:49:44	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3006
-09:49:44	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3006 to http://localhost/pastorscott/speaking/index.php/coronaverses-20/
-09:49:45	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3004
-09:49:45	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3004 to http://localhost/pastorscott/speaking/index.php/coronaverses-19/
-09:49:45	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3002
-09:49:45	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3002 to http://localhost/pastorscott/speaking/index.php/coronaverses-18/
-09:49:49	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2968
-09:49:49	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2968 to http://localhost/pastorscott/speaking/index.php/coronaverses-2/
-09:49:50	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2976
-09:49:50	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2976 to http://localhost/pastorscott/speaking/index.php/coronaverses-06/
-09:49:50	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3000
-09:49:50	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3000 to http://localhost/pastorscott/speaking/index.php/coronaverses-17/
-09:49:51	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2997
-09:49:51	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2997 to http://localhost/pastorscott/speaking/index.php/coronaverses-16/
-09:49:51	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2995
-09:49:51	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2995 to http://localhost/pastorscott/speaking/index.php/coronaverses-15/
-09:49:52	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2993
-09:49:52	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2993 to http://localhost/pastorscott/speaking/index.php/coronaverses-14/
-09:49:52	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2991
-09:49:52	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2991 to http://localhost/pastorscott/speaking/index.php/coronaverses-13/
-09:49:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2989
-09:49:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2989 to http://localhost/pastorscott/speaking/index.php/coronaverses-12/
-09:49:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2987
-09:49:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2987 to http://localhost/pastorscott/speaking/index.php/coronaverses-11/
-09:49:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2984
-09:49:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2984 to http://localhost/pastorscott/speaking/index.php/coronaverses-10/
-09:49:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2982
-09:49:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2982 to http://localhost/pastorscott/speaking/index.php/coronaverses-09/
-09:49:54	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2980
-09:49:54	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2980 to http://localhost/pastorscott/speaking/index.php/coronaverses-08/
-09:49:54	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2978
-09:49:54	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2978 to http://localhost/pastorscott/speaking/index.php/coronaverses-07/
+10:33:41	Error: 	"Not Found" (404) at link localhost/pastorscott/speaking/index.php/category/pastor scott cundiff/ (from localhost/pastorscott/speaking/)
+10:33:43	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 9673): localhost/pastorscott/speaking/wp-content/uploads/dynamic-mobmenu.css?ver=2.8.4-566
+10:34:06	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1766
+10:34:06	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1766 to http://localhost/pastorscott/speaking/index.php/about/
+10:34:06	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3507
+10:34:06	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3507 to http://localhost/pastorscott/speaking/index.php/tag-cloud/
+10:34:39	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 9673): localhost/pastorscott/speaking/wp-content/uploads/dynamic-mobmenu.css?ver=2.8.4-663
+10:35:03	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3306
+10:35:03	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3306 to http://localhost/pastorscott/speaking/index.php/minister-to-children/
+10:35:10	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=969
+10:35:10	Warning: 	File has moved from localhost/pastorscott/speaking/?p=969 to http://localhost/pastorscott/speaking/index.php/christmas-is-a-hard-time-for-a-lot-of-people/
+10:35:15	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3084
+10:35:15	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3084 to http://localhost/pastorscott/speaking/index.php/advice-to-young-pastors-preach-the-gospel/
+10:35:22	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3062
+10:35:22	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3062 to http://localhost/pastorscott/speaking/index.php/coronaverses-wrap-up/
+10:35:23	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3058
+10:35:23	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3058 to http://localhost/pastorscott/speaking/index.php/coronaverses-43/
+10:35:23	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3056
+10:35:23	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3056 to http://localhost/pastorscott/speaking/index.php/coronaverses-42/
+10:35:23	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3054
+10:35:23	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3054 to http://localhost/pastorscott/speaking/index.php/coronaverses-41/
+10:35:23	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3052
+10:35:23	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3052 to http://localhost/pastorscott/speaking/index.php/coronaverses-40/
+10:35:23	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3050
+10:35:23	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3050 to http://localhost/pastorscott/speaking/index.php/coronaverses-39/
+10:35:23	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3048
+10:35:23	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3048 to http://localhost/pastorscott/speaking/index.php/coronaverses-38/
+10:35:42	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2919
+10:35:42	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2919 to http://localhost/pastorscott/speaking/index.php/maybe-pastors-should-stop-talking-about-football/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2833
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2833 to http://localhost/pastorscott/speaking/index.php/pastor-this-is-real-commitment/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2758
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2758 to http://localhost/pastorscott/speaking/index.php/looking-for-a-pastor/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2570
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2570 to http://localhost/pastorscott/speaking/index.php/advise-to-young-pastors-baptism/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2259
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2259 to http://localhost/pastorscott/speaking/index.php/after-communion/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2240
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2240 to http://localhost/pastorscott/speaking/index.php/thinking-about-pastor-appreciation/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2221
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2221 to http://localhost/pastorscott/speaking/index.php/how-well-is-your-church-entrance-marked/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2132
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2132 to http://localhost/pastorscott/speaking/index.php/advice-to-young-pastors-annual-meetings-1/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2257
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2257 to http://localhost/pastorscott/speaking/index.php/communion/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=782
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=782 to http://localhost/pastorscott/speaking/index.php/if-you-have-a-child-who-is-away-from-god-today/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2893
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2893 to http://localhost/pastorscott/speaking/index.php/have-church-people-stopped-singing/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2553
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2553 to http://localhost/pastorscott/speaking/index.php/reflections-on-the-second-anniversary-of-my-retirement/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1453
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1453 to http://localhost/pastorscott/speaking/index.php/at-the-pearly-gates/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2972
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2972 to http://localhost/pastorscott/speaking/index.php/coronaverses-04/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2540
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2540 to http://localhost/pastorscott/speaking/index.php/thinking-about-the-tomb-that-first-easter-morning/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2653
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2653 to http://localhost/pastorscott/speaking/index.php/pastors-need-mondays/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2342
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2342 to http://localhost/pastorscott/speaking/index.php/on-the-subject-of-forgiveness/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2179
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2179 to http://localhost/pastorscott/speaking/index.php/reading-the-word-of-the-lord/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2173
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2173 to http://localhost/pastorscott/speaking/index.php/god-sometimes-colors-outside-the-lines/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2346
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2346 to http://localhost/pastorscott/speaking/index.php/my-how-things-have-changed/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1437
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1437 to http://localhost/pastorscott/speaking/index.php/holy-week-scripture-readings/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1394
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1394 to http://localhost/pastorscott/speaking/index.php/nazarenes-the-bible-fundamentalism/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1273
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1273 to http://localhost/pastorscott/speaking/index.php/battle-for-the-bible-2/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=785
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=785 to http://localhost/pastorscott/speaking/index.php/god-and-history/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2614
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2614 to http://localhost/pastorscott/speaking/index.php/preaching-for-decisions-know-when-to-land-the-sermon/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2285
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2285 to http://localhost/pastorscott/speaking/index.php/contemporary-worship-things-that-bug-me/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2217
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2217 to http://localhost/pastorscott/speaking/index.php/church-website-advice/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2544
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2544 to http://localhost/pastorscott/speaking/index.php/good-friday-is-a-no-parking-zone/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2655
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2655 to http://localhost/pastorscott/speaking/index.php/pastor-appreciation-why-some-churches-dont-do-it/
+10:35:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2591
+10:35:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2591 to http://localhost/pastorscott/speaking/index.php/the-biggest-single-change-for-pastors/
+10:35:47	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1818
+10:35:47	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1818 to http://localhost/pastorscott/speaking/index.php/preaching-advice-for-young-pastors-preach-an-annual-message/
+10:35:48	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1803
+10:35:48	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1803 to http://localhost/pastorscott/speaking/index.php/learning-to-laugh-at-yourself/
+10:35:48	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3046
+10:35:48	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3046 to http://localhost/pastorscott/speaking/index.php/coronaverses-37/
+10:35:48	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3044
+10:35:48	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3044 to http://localhost/pastorscott/speaking/index.php/coronaverses-36/
+10:35:48	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3040
+10:35:48	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3040 to http://localhost/pastorscott/speaking/index.php/coronaverses-35/
+10:35:50	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3038
+10:35:50	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3038 to http://localhost/pastorscott/speaking/index.php/coronaverses-34/
+10:35:50	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3035
+10:35:50	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3035 to http://localhost/pastorscott/speaking/index.php/coronaverses-33/
+10:35:50	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3033
+10:35:50	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3033 to http://localhost/pastorscott/speaking/index.php/coronaverses-32/
+10:35:50	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3031
+10:35:50	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3031 to http://localhost/pastorscott/speaking/index.php/coronaverses-31/
+10:35:50	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3028
+10:35:50	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3028 to http://localhost/pastorscott/speaking/index.php/coronaverses-30/
+10:35:50	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3026
+10:35:50	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3026 to http://localhost/pastorscott/speaking/index.php/coronaverses-29/
+10:35:50	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3024
+10:35:50	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3024 to http://localhost/pastorscott/speaking/index.php/coronaverses-28/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=817
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=817 to http://localhost/pastorscott/speaking/index.php/911-we-remember/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=802
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=802 to http://localhost/pastorscott/speaking/index.php/humor-of-abraham-lincoln/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=901
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=901 to http://localhost/pastorscott/speaking/index.php/a-pastor-appreciating-fine-lay-people/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1805
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1805 to http://localhost/pastorscott/speaking/index.php/quote-from-pf-bresee-concerning-nazarene-doctrine/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2277
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2277 to http://localhost/pastorscott/speaking/index.php/reflections-on-the-1st-anniversary-of-my-retirement/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1695
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1695 to http://localhost/pastorscott/speaking/index.php/plugged-and-unplugged-2/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1392
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1392 to http://localhost/pastorscott/speaking/index.php/cutting-and-slashing-in-jesus-name/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=801
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=801 to http://localhost/pastorscott/speaking/index.php/wish-i-had-said-that/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1465
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1465 to http://localhost/pastorscott/speaking/index.php/great-holiness-song/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2632
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2632 to http://localhost/pastorscott/speaking/index.php/during-communion/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=806
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=806 to http://localhost/pastorscott/speaking/index.php/who-is-god/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2748
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2748 to http://localhost/pastorscott/speaking/index.php/holy-saturday/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2744
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2744 to http://localhost/pastorscott/speaking/index.php/good-friday/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2536
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2536 to http://localhost/pastorscott/speaking/index.php/thinking-about-good-friday/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1439
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1439 to http://localhost/pastorscott/speaking/index.php/at-the-cross/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2626
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2626 to http://localhost/pastorscott/speaking/index.php/sing-it-right-christ-arose/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1441
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1441 to http://localhost/pastorscott/speaking/index.php/great-easter-quote/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=793
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=793 to http://localhost/pastorscott/speaking/index.php/the-elder-brother/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1413
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1413 to http://localhost/pastorscott/speaking/index.php/playing-ecclesiastical-space-invaders/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=781
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=781 to http://localhost/pastorscott/speaking/index.php/christians-should-walk-the-talk/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=835
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=835 to http://localhost/pastorscott/speaking/index.php/memorial-day-thoughts/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=843
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=843 to http://localhost/pastorscott/speaking/index.php/heart-and-doctrine/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=805
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=805 to http://localhost/pastorscott/speaking/index.php/funeral-for-a-baby-that-didnt-make-it-to-birth/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1798
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1798 to http://localhost/pastorscott/speaking/index.php/preaching-advice-for-young-pastors-funerals-part-3/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1796
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1796 to http://localhost/pastorscott/speaking/index.php/preaching-advice-for-young-pastors-funerals-part-2/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1794
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1794 to http://localhost/pastorscott/speaking/index.php/preaching-advice-for-young-pastors-funerals-part-1/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=803
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=803 to http://localhost/pastorscott/speaking/index.php/preaching-on-second-blessing-holiness/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=788
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=788 to http://localhost/pastorscott/speaking/index.php/a-holy-god-and-a-holy-people/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=819
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=819 to http://localhost/pastorscott/speaking/index.php/hurricanes-and-the-return-of-christ/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=813
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=813 to http://localhost/pastorscott/speaking/index.php/clothes-gluttons/
+10:35:53	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1387
+10:35:53	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1387 to http://localhost/pastorscott/speaking/index.php/what-to-think-of-someone-who-accuses-us-of-telling-lies-or-says-other-unkind-things-about-us/
+10:35:57	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=853
+10:35:57	Warning: 	File has moved from localhost/pastorscott/speaking/?p=853 to http://localhost/pastorscott/speaking/index.php/j-hudson-taylor-on-prayer/
+10:35:57	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=799
+10:35:57	Warning: 	File has moved from localhost/pastorscott/speaking/?p=799 to http://localhost/pastorscott/speaking/index.php/inspirational-story-of-gohn-geddie/
+10:35:57	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=865
+10:35:57	Warning: 	File has moved from localhost/pastorscott/speaking/?p=865 to http://localhost/pastorscott/speaking/index.php/in-search-of-mediocrity/
+10:35:57	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1784
+10:35:57	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1784 to http://localhost/pastorscott/speaking/index.php/confession-of-a-non-liturgical-pastor/
+10:35:57	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1789
+10:35:57	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1789 to http://localhost/pastorscott/speaking/index.php/preaching-advice-for-young-pastors-mothers-day/
+10:35:57	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1525
+10:35:57	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1525 to http://localhost/pastorscott/speaking/index.php/pastor-appreciation-take-the-day-off/
+10:35:57	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1360
+10:35:57	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1360 to http://localhost/pastorscott/speaking/index.php/more-and-more-pastor-appreciation/
+10:35:57	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1353
+10:35:57	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1353 to http://localhost/pastorscott/speaking/index.php/its-pastor-appreciation-month/
+10:35:57	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=795
+10:35:57	Warning: 	File has moved from localhost/pastorscott/speaking/?p=795 to http://localhost/pastorscott/speaking/index.php/value-of-prayer/
+10:35:57	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=809
+10:35:57	Warning: 	File has moved from localhost/pastorscott/speaking/?p=809 to http://localhost/pastorscott/speaking/index.php/reverend-pastor-preacher-father/
+10:35:57	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2209
+10:35:57	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2209 to http://localhost/pastorscott/speaking/index.php/previenent-grace-along-the-highway/
+10:35:57	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2219
+10:35:57	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2219 to http://localhost/pastorscott/speaking/index.php/preparing-the-church-for-a-pastoral-sabbatical/
+10:35:57	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2599
+10:35:57	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2599 to http://localhost/pastorscott/speaking/index.php/contemporary-worship-in-a-traditional-sanctuary/
+10:36:01	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2966
+10:36:01	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2966 to http://localhost/pastorscott/speaking/index.php/coronaverses-1/
+10:36:02	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2970
+10:36:02	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2970 to http://localhost/pastorscott/speaking/index.php/coronaverses-03/
+10:36:02	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2974
+10:36:02	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2974 to http://localhost/pastorscott/speaking/index.php/coronaverses-05/
+10:36:02	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1620
+10:36:02	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1620 to http://localhost/pastorscott/speaking/index.php/pastors-day-off-and-other-pastortime-issues/
+10:36:02	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3022
+10:36:02	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3022 to http://localhost/pastorscott/speaking/index.php/coronaverses-27/
+10:36:02	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3020
+10:36:02	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3020 to http://localhost/pastorscott/speaking/index.php/coronaverses-26/
+10:36:02	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3018
+10:36:02	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3018 to http://localhost/pastorscott/speaking/index.php/coronaverses-25/
+10:36:05	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3016
+10:36:05	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3016 to http://localhost/pastorscott/speaking/index.php/coronaverses-24/
+10:36:05	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3013
+10:36:05	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3013 to http://localhost/pastorscott/speaking/index.php/coronaverses-23/
+10:36:05	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3011
+10:36:05	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3011 to http://localhost/pastorscott/speaking/index.php/coronaverses-22/
+10:36:05	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3009
+10:36:05	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3009 to http://localhost/pastorscott/speaking/index.php/coronaverses-21/
+10:36:05	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3006
+10:36:05	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3006 to http://localhost/pastorscott/speaking/index.php/coronaverses-20/
+10:36:05	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3004
+10:36:05	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3004 to http://localhost/pastorscott/speaking/index.php/coronaverses-19/
+10:36:05	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3002
+10:36:05	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3002 to http://localhost/pastorscott/speaking/index.php/coronaverses-18/
+10:36:09	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2968
+10:36:09	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2968 to http://localhost/pastorscott/speaking/index.php/coronaverses-2/
+10:36:09	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2976
+10:36:09	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2976 to http://localhost/pastorscott/speaking/index.php/coronaverses-06/
+10:36:09	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3000
+10:36:09	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3000 to http://localhost/pastorscott/speaking/index.php/coronaverses-17/
+10:36:09	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2997
+10:36:09	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2997 to http://localhost/pastorscott/speaking/index.php/coronaverses-16/
+10:36:09	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2995
+10:36:09	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2995 to http://localhost/pastorscott/speaking/index.php/coronaverses-15/
+10:36:10	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2993
+10:36:10	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2993 to http://localhost/pastorscott/speaking/index.php/coronaverses-14/
+10:36:10	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2991
+10:36:10	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2991 to http://localhost/pastorscott/speaking/index.php/coronaverses-13/
+10:36:10	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2989
+10:36:10	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2989 to http://localhost/pastorscott/speaking/index.php/coronaverses-12/
+10:36:10	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2987
+10:36:10	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2987 to http://localhost/pastorscott/speaking/index.php/coronaverses-11/
+10:36:10	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2984
+10:36:10	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2984 to http://localhost/pastorscott/speaking/index.php/coronaverses-10/
+10:36:10	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2982
+10:36:10	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2982 to http://localhost/pastorscott/speaking/index.php/coronaverses-09/
+10:36:10	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2980
+10:36:10	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2980 to http://localhost/pastorscott/speaking/index.php/coronaverses-08/
+10:36:13	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2978
+10:36:13	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2978 to http://localhost/pastorscott/speaking/index.php/coronaverses-07/
+10:36:35	Warning: 	Unexpected 412/416 error (Requested Range Not Satisfiable) for localhost/pastorscott/speaking/wp-includes/js/jquery/jquery.min.js?ver=3.7.1, 'C:/Users/scott/Desktop/pastorscott2/speaking/web/jquery.minf43b.html' could not be found on disk
+10:36:35	Warning: 	Unexpected 412/416 error (Requested Range Not Satisfiable) for localhost/pastorscott/speaking/wp-content/plugins/click-to-top/assets/js/jquery.easing.js?ver=1.0, 'C:/Users/scott/Desktop/pastorscott2/speaking/web/jquery.easing5152.html' could not be found on disk
+10:36:35	Warning: 	Unexpected 412/416 error (Requested Range Not Satisfiable) for localhost/pastorscott/speaking/wp-content/themes/x-blog/assets/js/modernizr.js?ver=6.4.2, 'C:/Users/scott/Desktop/pastorscott2/speaking/web/modernizr1e39.html' could not be found on disk
+10:36:38	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2023/12/cropped-sky.jpg (from localhost/pastorscott/speaking/)
+10:36:40	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2008/12/Christmas.jpg (from localhost/pastorscott/speaking/)
+10:36:55	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1766
+10:36:55	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1766 to http://localhost/pastorscott/speaking/index.php/about/
+10:36:55	Warning: 	Moved Permanently for pastorscott.com/wp-content/uploads/2013/01/P2028657.jpg
+10:36:55	Warning: 	Redirected link is identical because of 'URL Hack' option: pastorscott.com/wp-content/uploads/2013/01/P2028657.jpg and https://pastorscott.com/wp-content/uploads/2013/01/P2028657.jpg
+10:36:55	Warning: 	Warning moved treated for pastorscott.com/wp-content/uploads/2013/01/P2028657.jpg (real one is https://pastorscott.com/wp-content/uploads/2013/01/P2028657.jpg)
+10:36:55	Warning: 	Moved Permanently for pastorscott.com/wp-content/uploads/2013/01/P2028657-300x239.jpg
+10:36:55	Warning: 	Redirected link is identical because of 'URL Hack' option: pastorscott.com/wp-content/uploads/2013/01/P2028657-300x239.jpg and https://pastorscott.com/wp-content/uploads/2013/01/P2028657-300x239.jpg
+10:36:55	Warning: 	Warning moved treated for pastorscott.com/wp-content/uploads/2013/01/P2028657-300x239.jpg (real one is https://pastorscott.com/wp-content/uploads/2013/01/P2028657-300x239.jpg)
+10:36:56	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3507
+10:36:56	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3507 to http://localhost/pastorscott/speaking/index.php/tag-cloud/
+10:36:58	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3306
+10:36:58	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3306 to http://localhost/pastorscott/speaking/index.php/minister-to-children/
+10:37:04	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2019/12/heismen.jpg (from localhost/pastorscott/speaking/index.php/tag/advice/)
+10:37:05	Error: 	"Not Found" (404) at link localhost/pastorscott.speaking/wp-content/uploads/2018/04/checkmark-149x150.png (from localhost/pastorscott/speaking/index.php/tag/advice/)
+10:37:05	Error: 	"Not Found" (404) at link localhost/pastorscott.speaking/wp-content/uploads/2018/04/facebook-mobile-app-820x4201-150x150.jpg (from localhost/pastorscott/speaking/index.php/tag/advice/)
+10:37:05	Error: 	"Not Found" (404) at link localhost/pastorscott.speaking/wp-content/uploads/2014/01/thimbles.jpg (from localhost/pastorscott/speaking/index.php/tag/advice/)
+10:37:13	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2014/01/communion.jpg (from localhost/pastorscott/speaking/index.php/tag/children/)
+10:37:13	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2014/01/communion-300x200.jpg (from localhost/pastorscott/speaking/index.php/tag/children/)
+10:37:15	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2019/09/worship.jpg (from localhost/pastorscott/speaking/index.php/tag/church/)
+10:37:15	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2019/09/worship-1024x594.jpg (from localhost/pastorscott/speaking/index.php/tag/church/)
+10:37:15	Error: 	"Forbidden" (403) at link lh3.googleusercontent.com/-wEHgGRKUmXI/U5Un2kkrASI/AAAAAAAAdDA/D6gbHoi9570/s0/IMG_2465.JPG (from localhost/pastorscott/speaking/index.php/tag/church/)
+10:37:18	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=969
+10:37:18	Warning: 	File has moved from localhost/pastorscott/speaking/?p=969 to http://localhost/pastorscott/speaking/index.php/christmas-is-a-hard-time-for-a-lot-of-people/
+10:37:22	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2015/04/empty-tomb.jpg (from localhost/pastorscott/speaking/index.php/category/uncategorized/)
+10:37:22	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2015/04/empty-tomb-300x196.jpg (from localhost/pastorscott/speaking/index.php/category/uncategorized/)
+10:37:24	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3084
+10:37:24	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3084 to http://localhost/pastorscott/speaking/index.php/advice-to-young-pastors-preach-the-gospel/
+10:37:30	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2017/03/landing.jpeg (from localhost/pastorscott/speaking/index.php/tag/ministry/)
+10:37:30	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2017/03/landing-300x213.jpeg (from localhost/pastorscott/speaking/index.php/tag/ministry/)
+10:37:34	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2015/04/parking.jpg (from localhost/pastorscott/speaking/index.php/tag/pastor/)
+10:37:34	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2017/10/thumbsup.png (from localhost/pastorscott/speaking/index.php/tag/pastor/)
+10:37:34	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2017/10/thumbsup-163x300.png (from localhost/pastorscott/speaking/index.php/tag/pastor/)
+10:37:34	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2016/09/preaching.png (from localhost/pastorscott/speaking/index.php/tag/pastor/)
+10:37:34	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2016/09/preaching-300x126.png (from localhost/pastorscott/speaking/index.php/tag/pastor/)
+10:37:36	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3062
+10:37:36	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3062 to http://localhost/pastorscott/speaking/index.php/coronaverses-wrap-up/
+10:37:44	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3058
+10:37:44	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3058 to http://localhost/pastorscott/speaking/index.php/coronaverses-43/
+10:37:44	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3056
+10:37:44	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3056 to http://localhost/pastorscott/speaking/index.php/coronaverses-42/
+10:37:45	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3054
+10:37:45	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3054 to http://localhost/pastorscott/speaking/index.php/coronaverses-41/
+10:37:45	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3052
+10:37:45	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3052 to http://localhost/pastorscott/speaking/index.php/coronaverses-40/
+10:37:46	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3050
+10:37:46	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3050 to http://localhost/pastorscott/speaking/index.php/coronaverses-39/
+10:37:46	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3048
+10:37:46	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3048 to http://localhost/pastorscott/speaking/index.php/coronaverses-38/
+10:38:18	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2017/08/tray.jpg (from localhost/pastorscott/speaking/index.php/tag/communion/)
+10:38:18	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2017/08/tray-300x225.jpg (from localhost/pastorscott/speaking/index.php/tag/communion/)
+10:38:22	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2018/03/1.jpg (from localhost/pastorscott/speaking/index.php/tag/cross/)
+10:38:22	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2018/03/1-300x169.jpg (from localhost/pastorscott/speaking/index.php/tag/cross/)
+10:38:22	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2018/03/cross.jpg (from localhost/pastorscott/speaking/index.php/tag/cross/)
+10:38:22	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2015/04/old-rugged-cross1.jpg (from localhost/pastorscott/speaking/index.php/tag/cross/)
+10:38:22	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2015/04/old-rugged-cross1-300x200.jpg (from localhost/pastorscott/speaking/index.php/tag/cross/)
+10:38:24	Error: 	"Not Found" (404) at link localhost/pastorscott.speaking/wp-content/uploads/2017/04/arose-150x150.jpg (from localhost/pastorscott/speaking/index.php/tag/easter/)
+10:38:54	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2009/10/pa185779.jpg (from localhost/pastorscott/speaking/index.php/tag/pastor-appreciation/)
+10:38:54	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2009/10/pa185779-300x225.jpg (from localhost/pastorscott/speaking/index.php/tag/pastor-appreciation/)
+10:38:54	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2009/10/pa185780.jpg (from localhost/pastorscott/speaking/index.php/tag/pastor-appreciation/)
+10:38:54	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2009/10/pa185780-300x225.jpg (from localhost/pastorscott/speaking/index.php/tag/pastor-appreciation/)
+10:38:54	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2009/10/home-of.png (from localhost/pastorscott/speaking/index.php/tag/pastor-appreciation/)
+10:38:54	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2009/10/home-of-300x225.png (from localhost/pastorscott/speaking/index.php/tag/pastor-appreciation/)
+10:39:03	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2013/04/2013-04-15-10.32.25.jpg (from localhost/pastorscott/speaking/index.php/tag/prevenient-grace/)
+10:39:03	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2013/04/2013-04-15-10.32.25-300x169.jpg (from localhost/pastorscott/speaking/index.php/tag/prevenient-grace/)
+10:39:07	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2016/12/drums-1.jpg (from localhost/pastorscott/speaking/index.php/tag/worship/)
+10:39:07	Error: 	"Not Found" (404) at link localhost/speaking/wp-content/uploads/2016/12/drums-1-300x168.jpg (from localhost/pastorscott/speaking/index.php/tag/worship/)
+10:39:08	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2919
+10:39:08	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2919 to http://localhost/pastorscott/speaking/index.php/maybe-pastors-should-stop-talking-about-football/
+10:39:09	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2833
+10:39:09	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2833 to http://localhost/pastorscott/speaking/index.php/pastor-this-is-real-commitment/
+10:39:10	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2758
+10:39:10	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2758 to http://localhost/pastorscott/speaking/index.php/looking-for-a-pastor/
+10:39:10	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2570
+10:39:10	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2570 to http://localhost/pastorscott/speaking/index.php/advise-to-young-pastors-baptism/
+10:39:10	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2259
+10:39:10	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2259 to http://localhost/pastorscott/speaking/index.php/after-communion/
+10:39:11	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2240
+10:39:11	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2240 to http://localhost/pastorscott/speaking/index.php/thinking-about-pastor-appreciation/
+10:39:11	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2221
+10:39:11	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2221 to http://localhost/pastorscott/speaking/index.php/how-well-is-your-church-entrance-marked/
+10:39:12	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2132
+10:39:12	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2132 to http://localhost/pastorscott/speaking/index.php/advice-to-young-pastors-annual-meetings-1/
+10:39:12	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2257
+10:39:12	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2257 to http://localhost/pastorscott/speaking/index.php/communion/
+10:39:13	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=782
+10:39:13	Warning: 	File has moved from localhost/pastorscott/speaking/?p=782 to http://localhost/pastorscott/speaking/index.php/if-you-have-a-child-who-is-away-from-god-today/
+10:39:13	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2893
+10:39:13	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2893 to http://localhost/pastorscott/speaking/index.php/have-church-people-stopped-singing/
+10:39:14	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2553
+10:39:14	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2553 to http://localhost/pastorscott/speaking/index.php/reflections-on-the-second-anniversary-of-my-retirement/
+10:39:14	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1453
+10:39:14	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1453 to http://localhost/pastorscott/speaking/index.php/at-the-pearly-gates/
+10:39:14	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2972
+10:39:14	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2972 to http://localhost/pastorscott/speaking/index.php/coronaverses-04/
+10:39:17	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2540
+10:39:17	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2540 to http://localhost/pastorscott/speaking/index.php/thinking-about-the-tomb-that-first-easter-morning/
+10:39:17	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2653
+10:39:17	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2653 to http://localhost/pastorscott/speaking/index.php/pastors-need-mondays/
+10:39:17	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2342
+10:39:17	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2342 to http://localhost/pastorscott/speaking/index.php/on-the-subject-of-forgiveness/
+10:39:18	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2179
+10:39:18	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2179 to http://localhost/pastorscott/speaking/index.php/reading-the-word-of-the-lord/
+10:39:18	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2173
+10:39:18	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2173 to http://localhost/pastorscott/speaking/index.php/god-sometimes-colors-outside-the-lines/
+10:39:18	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2346
+10:39:18	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2346 to http://localhost/pastorscott/speaking/index.php/my-how-things-have-changed/
+10:39:19	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1437
+10:39:19	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1437 to http://localhost/pastorscott/speaking/index.php/holy-week-scripture-readings/
+10:39:19	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1394
+10:39:19	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1394 to http://localhost/pastorscott/speaking/index.php/nazarenes-the-bible-fundamentalism/
+10:39:20	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1273
+10:39:20	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1273 to http://localhost/pastorscott/speaking/index.php/battle-for-the-bible-2/
+10:39:21	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=785
+10:39:21	Warning: 	File has moved from localhost/pastorscott/speaking/?p=785 to http://localhost/pastorscott/speaking/index.php/god-and-history/
+10:39:21	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2614
+10:39:21	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2614 to http://localhost/pastorscott/speaking/index.php/preaching-for-decisions-know-when-to-land-the-sermon/
+10:39:21	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2285
+10:39:21	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2285 to http://localhost/pastorscott/speaking/index.php/contemporary-worship-things-that-bug-me/
+10:39:22	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2217
+10:39:22	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2217 to http://localhost/pastorscott/speaking/index.php/church-website-advice/
+10:39:22	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2544
+10:39:22	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2544 to http://localhost/pastorscott/speaking/index.php/good-friday-is-a-no-parking-zone/
+10:39:23	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2655
+10:39:23	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2655 to http://localhost/pastorscott/speaking/index.php/pastor-appreciation-why-some-churches-dont-do-it/
+10:39:23	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2591
+10:39:23	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2591 to http://localhost/pastorscott/speaking/index.php/the-biggest-single-change-for-pastors/
+10:39:24	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1818
+10:39:24	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1818 to http://localhost/pastorscott/speaking/index.php/preaching-advice-for-young-pastors-preach-an-annual-message/
+10:39:24	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1803
+10:39:24	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1803 to http://localhost/pastorscott/speaking/index.php/learning-to-laugh-at-yourself/
+10:39:24	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3046
+10:39:24	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3046 to http://localhost/pastorscott/speaking/index.php/coronaverses-37/
+10:39:24	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3044
+10:39:24	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3044 to http://localhost/pastorscott/speaking/index.php/coronaverses-36/
+10:39:25	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3040
+10:39:25	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3040 to http://localhost/pastorscott/speaking/index.php/coronaverses-35/
+10:39:27	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3038
+10:39:27	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3038 to http://localhost/pastorscott/speaking/index.php/coronaverses-34/
+10:39:27	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3035
+10:39:27	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3035 to http://localhost/pastorscott/speaking/index.php/coronaverses-33/
+10:39:27	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3033
+10:39:27	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3033 to http://localhost/pastorscott/speaking/index.php/coronaverses-32/
+10:39:27	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3031
+10:39:27	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3031 to http://localhost/pastorscott/speaking/index.php/coronaverses-31/
+10:39:27	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3028
+10:39:27	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3028 to http://localhost/pastorscott/speaking/index.php/coronaverses-30/
+10:39:28	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3026
+10:39:28	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3026 to http://localhost/pastorscott/speaking/index.php/coronaverses-29/
+10:39:28	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3024
+10:39:28	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3024 to http://localhost/pastorscott/speaking/index.php/coronaverses-28/
+10:39:33	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=817
+10:39:33	Warning: 	File has moved from localhost/pastorscott/speaking/?p=817 to http://localhost/pastorscott/speaking/index.php/911-we-remember/
+10:39:34	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=802
+10:39:34	Warning: 	File has moved from localhost/pastorscott/speaking/?p=802 to http://localhost/pastorscott/speaking/index.php/humor-of-abraham-lincoln/
+10:39:34	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=901
+10:39:34	Warning: 	File has moved from localhost/pastorscott/speaking/?p=901 to http://localhost/pastorscott/speaking/index.php/a-pastor-appreciating-fine-lay-people/
+10:39:34	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1805
+10:39:34	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1805 to http://localhost/pastorscott/speaking/index.php/quote-from-pf-bresee-concerning-nazarene-doctrine/
+10:39:35	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2277
+10:39:35	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2277 to http://localhost/pastorscott/speaking/index.php/reflections-on-the-1st-anniversary-of-my-retirement/
+10:39:35	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1695
+10:39:35	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1695 to http://localhost/pastorscott/speaking/index.php/plugged-and-unplugged-2/
+10:39:35	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1392
+10:39:35	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1392 to http://localhost/pastorscott/speaking/index.php/cutting-and-slashing-in-jesus-name/
+10:39:35	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=801
+10:39:35	Warning: 	File has moved from localhost/pastorscott/speaking/?p=801 to http://localhost/pastorscott/speaking/index.php/wish-i-had-said-that/
+10:39:36	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1465
+10:39:36	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1465 to http://localhost/pastorscott/speaking/index.php/great-holiness-song/
+10:39:36	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2632
+10:39:36	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2632 to http://localhost/pastorscott/speaking/index.php/during-communion/
+10:39:36	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=806
+10:39:36	Warning: 	File has moved from localhost/pastorscott/speaking/?p=806 to http://localhost/pastorscott/speaking/index.php/who-is-god/
+10:39:36	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2748
+10:39:36	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2748 to http://localhost/pastorscott/speaking/index.php/holy-saturday/
+10:39:37	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2744
+10:39:37	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2744 to http://localhost/pastorscott/speaking/index.php/good-friday/
+10:39:37	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2536
+10:39:37	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2536 to http://localhost/pastorscott/speaking/index.php/thinking-about-good-friday/
+10:39:37	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1439
+10:39:37	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1439 to http://localhost/pastorscott/speaking/index.php/at-the-cross/
+10:39:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2626
+10:39:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2626 to http://localhost/pastorscott/speaking/index.php/sing-it-right-christ-arose/
+10:39:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1441
+10:39:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1441 to http://localhost/pastorscott/speaking/index.php/great-easter-quote/
+10:39:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=793
+10:39:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=793 to http://localhost/pastorscott/speaking/index.php/the-elder-brother/
+10:39:38	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1413
+10:39:38	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1413 to http://localhost/pastorscott/speaking/index.php/playing-ecclesiastical-space-invaders/
+10:39:39	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=781
+10:39:39	Warning: 	File has moved from localhost/pastorscott/speaking/?p=781 to http://localhost/pastorscott/speaking/index.php/christians-should-walk-the-talk/
+10:39:39	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=835
+10:39:39	Warning: 	File has moved from localhost/pastorscott/speaking/?p=835 to http://localhost/pastorscott/speaking/index.php/memorial-day-thoughts/
+10:39:39	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=843
+10:39:39	Warning: 	File has moved from localhost/pastorscott/speaking/?p=843 to http://localhost/pastorscott/speaking/index.php/heart-and-doctrine/
+10:39:39	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=805
+10:39:39	Warning: 	File has moved from localhost/pastorscott/speaking/?p=805 to http://localhost/pastorscott/speaking/index.php/funeral-for-a-baby-that-didnt-make-it-to-birth/
+10:39:40	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1798
+10:39:40	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1798 to http://localhost/pastorscott/speaking/index.php/preaching-advice-for-young-pastors-funerals-part-3/
+10:39:40	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1796
+10:39:40	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1796 to http://localhost/pastorscott/speaking/index.php/preaching-advice-for-young-pastors-funerals-part-2/
+10:39:40	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1794
+10:39:40	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1794 to http://localhost/pastorscott/speaking/index.php/preaching-advice-for-young-pastors-funerals-part-1/
+10:39:41	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=803
+10:39:41	Warning: 	File has moved from localhost/pastorscott/speaking/?p=803 to http://localhost/pastorscott/speaking/index.php/preaching-on-second-blessing-holiness/
+10:39:41	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=788
+10:39:41	Warning: 	File has moved from localhost/pastorscott/speaking/?p=788 to http://localhost/pastorscott/speaking/index.php/a-holy-god-and-a-holy-people/
+10:39:41	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=819
+10:39:41	Warning: 	File has moved from localhost/pastorscott/speaking/?p=819 to http://localhost/pastorscott/speaking/index.php/hurricanes-and-the-return-of-christ/
+10:39:41	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=813
+10:39:41	Warning: 	File has moved from localhost/pastorscott/speaking/?p=813 to http://localhost/pastorscott/speaking/index.php/clothes-gluttons/
+10:39:42	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1387
+10:39:42	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1387 to http://localhost/pastorscott/speaking/index.php/what-to-think-of-someone-who-accuses-us-of-telling-lies-or-says-other-unkind-things-about-us/
+10:39:42	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=853
+10:39:42	Warning: 	File has moved from localhost/pastorscott/speaking/?p=853 to http://localhost/pastorscott/speaking/index.php/j-hudson-taylor-on-prayer/
+10:39:42	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=799
+10:39:42	Warning: 	File has moved from localhost/pastorscott/speaking/?p=799 to http://localhost/pastorscott/speaking/index.php/inspirational-story-of-gohn-geddie/
+10:39:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=865
+10:39:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=865 to http://localhost/pastorscott/speaking/index.php/in-search-of-mediocrity/
+10:39:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1784
+10:39:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1784 to http://localhost/pastorscott/speaking/index.php/confession-of-a-non-liturgical-pastor/
+10:39:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1789
+10:39:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1789 to http://localhost/pastorscott/speaking/index.php/preaching-advice-for-young-pastors-mothers-day/
+10:39:43	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1525
+10:39:43	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1525 to http://localhost/pastorscott/speaking/index.php/pastor-appreciation-take-the-day-off/
+10:39:44	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1360
+10:39:44	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1360 to http://localhost/pastorscott/speaking/index.php/more-and-more-pastor-appreciation/
+10:39:44	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1353
+10:39:44	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1353 to http://localhost/pastorscott/speaking/index.php/its-pastor-appreciation-month/
+10:39:44	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=795
+10:39:44	Warning: 	File has moved from localhost/pastorscott/speaking/?p=795 to http://localhost/pastorscott/speaking/index.php/value-of-prayer/
+10:39:44	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=809
+10:39:44	Warning: 	File has moved from localhost/pastorscott/speaking/?p=809 to http://localhost/pastorscott/speaking/index.php/reverend-pastor-preacher-father/
+10:39:45	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2209
+10:39:45	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2209 to http://localhost/pastorscott/speaking/index.php/previenent-grace-along-the-highway/
+10:39:45	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2219
+10:39:45	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2219 to http://localhost/pastorscott/speaking/index.php/preparing-the-church-for-a-pastoral-sabbatical/
+10:39:45	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2599
+10:39:45	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2599 to http://localhost/pastorscott/speaking/index.php/contemporary-worship-in-a-traditional-sanctuary/
+10:39:46	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2966
+10:39:46	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2966 to http://localhost/pastorscott/speaking/index.php/coronaverses-1/
+10:39:47	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2970
+10:39:47	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2970 to http://localhost/pastorscott/speaking/index.php/coronaverses-03/
+10:39:47	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2974
+10:39:47	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2974 to http://localhost/pastorscott/speaking/index.php/coronaverses-05/
+10:39:48	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=1620
+10:39:48	Warning: 	File has moved from localhost/pastorscott/speaking/?p=1620 to http://localhost/pastorscott/speaking/index.php/pastors-day-off-and-other-pastortime-issues/
+10:39:48	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3022
+10:39:48	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3022 to http://localhost/pastorscott/speaking/index.php/coronaverses-27/
+10:39:48	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3020
+10:39:48	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3020 to http://localhost/pastorscott/speaking/index.php/coronaverses-26/
+10:39:49	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3018
+10:39:49	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3018 to http://localhost/pastorscott/speaking/index.php/coronaverses-25/
+10:39:50	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3016
+10:39:50	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3016 to http://localhost/pastorscott/speaking/index.php/coronaverses-24/
+10:39:51	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3013
+10:39:51	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3013 to http://localhost/pastorscott/speaking/index.php/coronaverses-23/
+10:39:51	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3011
+10:39:51	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3011 to http://localhost/pastorscott/speaking/index.php/coronaverses-22/
+10:39:51	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3009
+10:39:51	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3009 to http://localhost/pastorscott/speaking/index.php/coronaverses-21/
+10:39:51	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3006
+10:39:51	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3006 to http://localhost/pastorscott/speaking/index.php/coronaverses-20/
+10:39:52	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3004
+10:39:52	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3004 to http://localhost/pastorscott/speaking/index.php/coronaverses-19/
+10:39:52	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3002
+10:39:52	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3002 to http://localhost/pastorscott/speaking/index.php/coronaverses-18/
+10:39:58	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2968
+10:39:58	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2968 to http://localhost/pastorscott/speaking/index.php/coronaverses-2/
+10:39:58	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2976
+10:39:58	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2976 to http://localhost/pastorscott/speaking/index.php/coronaverses-06/
+10:39:59	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=3000
+10:39:59	Warning: 	File has moved from localhost/pastorscott/speaking/?p=3000 to http://localhost/pastorscott/speaking/index.php/coronaverses-17/
+10:39:59	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2997
+10:39:59	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2997 to http://localhost/pastorscott/speaking/index.php/coronaverses-16/
+10:39:59	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2995
+10:39:59	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2995 to http://localhost/pastorscott/speaking/index.php/coronaverses-15/
+10:40:00	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2993
+10:40:00	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2993 to http://localhost/pastorscott/speaking/index.php/coronaverses-14/
+10:40:00	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2991
+10:40:00	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2991 to http://localhost/pastorscott/speaking/index.php/coronaverses-13/
+10:40:00	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2989
+10:40:00	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2989 to http://localhost/pastorscott/speaking/index.php/coronaverses-12/
+10:40:01	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2987
+10:40:01	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2987 to http://localhost/pastorscott/speaking/index.php/coronaverses-11/
+10:40:01	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2984
+10:40:01	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2984 to http://localhost/pastorscott/speaking/index.php/coronaverses-10/
+10:40:01	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2982
+10:40:01	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2982 to http://localhost/pastorscott/speaking/index.php/coronaverses-09/
+10:40:02	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2980
+10:40:02	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2980 to http://localhost/pastorscott/speaking/index.php/coronaverses-08/
+10:40:02	Warning: 	Moved Permanently for localhost/pastorscott/speaking/?p=2978
+10:40:02	Warning: 	File has moved from localhost/pastorscott/speaking/?p=2978 to http://localhost/pastorscott/speaking/index.php/coronaverses-07/
+10:40:02	Warning: 	Unexpected 412/416 error (Requested Range Not Satisfiable) for localhost/pastorscott/speaking/wp-content/plugins/click-to-top/assets/fonts/fontawesome-webfont.eot?, 'C:/Users/scott/Desktop/pastorscott2/speaking/web/fontawesome-webfontd41d.html' could not be found on disk
+10:40:02	Warning: 	Unexpected 412/416 error (Requested Range Not Satisfiable) for localhost/pastorscott/speaking/wp-content/plugins/click-to-top/assets/fonts/fontawesome-webfont.woff2?v=4.5.0, 'C:/Users/scott/Desktop/pastorscott2/speaking/web/fontawesome-webfont3295.html' could not be found on disk
+10:40:02	Warning: 	Unexpected 412/416 error (Requested Range Not Satisfiable) for localhost/pastorscott/speaking/wp-content/plugins/click-to-top/assets/fonts/fontawesome-webfont.woff?v=4.5.0, 'C:/Users/scott/Desktop/pastorscott2/speaking/web/fontawesome-webfont3295-2.html' could not be found on disk
+10:40:04	Warning: 	Unexpected 412/416 error (Requested Range Not Satisfiable) for localhost/pastorscott/speaking/wp-content/uploads/dynamic-mobmenu.css?ver=2.8.4-898, 'C:/Users/scott/Desktop/pastorscott2/speaking/web/dynamic-mobmenufc61.html' could not be found on disk
 
-HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 6 seconds : 1542 links scanned, 2152 files written (51932475 bytes overall), 891 files updated [36019103 bytes received at 74113 bytes/sec], 11026 bytes transferred using HTTP compression in 5 files, ratio 39%, 1.6 requests per connection
-(43 errors, 635 warnings, 0 messages)
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 57 seconds : 1540 links scanned, 2086 files written (43351879 bytes overall), 643 files updated [25043230 bytes received at 60055 bytes/sec], 2198 bytes transferred using HTTP compression in 1 files, ratio 38%, 1.8 requests per connection
+(39 errors, 515 warnings, 0 messages)
