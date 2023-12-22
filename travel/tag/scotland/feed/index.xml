@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Scotland &#8211; Here and There</title>
+	<atom:link href="/travel/tag/scotland/feed/" rel="self" type="application/rss+xml" />
+	<link>/travel</link>
+	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
+	<lastBuildDate>Mon, 05 Jun 2023 16:36:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>2023  &#8211; Kelpies, Falkirk, Scotland</title>
+		<link>/travel/2023/06/05/2023-kelpies-falkirk-scotland/</link>
+		
+		<dc:creator><![CDATA[grscott]]></dc:creator>
+		<pubDate>Mon, 05 Jun 2023 16:36:31 +0000</pubDate>
+				<category><![CDATA[Jackie]]></category>
+		<category><![CDATA[Scott]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[Scotland]]></category>
+		<category><![CDATA[sightseeing]]></category>
+		<category><![CDATA[uk]]></category>
+		<guid isPermaLink="false">https://pastorscott.com/travel/?p=5139</guid>
+
+					<description><![CDATA[Since their creation about 10 years ago the Kelpies have become a major Falkirk, Scotland attraction. These works of art stand nearly 100 feet tall. &#8220;Kelpies&#8221; are a part of Scottish folk lore, mythical water spirits that often appear on land in the form of horses. An additional symbolism has to do with the horses [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><iframe title="2023  - Kelpies, Falkirk, Scotland" width="960" height="540" src="https://www.youtube.com/embed/xhcbZVKCSPM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p>Since their creation about 10 years ago the Kelpies have become a major Falkirk, Scotland attraction.  These works of art stand nearly 100 feet tall.  &#8220;Kelpies&#8221; are a part of Scottish folk lore, mythical water spirits that often appear on land in the form of horses.  An additional symbolism has to do with the horses that towed the canal boats throughout the region.  In fact, a canal and locks are located right between the two giant horses allowing canal boaters to cruise right between these giants.  However one wants to think about the Kelpies, they are impressive and well-worth a visit.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Scott &#8211; Here and There</title>
+	<atom:link href="/travel/category/scott/feed/" rel="self" type="application/rss+xml" />
+	<link>/travel</link>
+	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
+	<lastBuildDate>Tue, 27 Jun 2023 08:36:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>2023 &#8211; Around Didsbury, Manchester, UK</title>
+		<link>/travel/2023/06/27/2023-around-didsbury-manchester-uk/</link>
+		
+		<dc:creator><![CDATA[grscott]]></dc:creator>
+		<pubDate>Tue, 27 Jun 2023 08:36:24 +0000</pubDate>
+				<category><![CDATA[Jackie]]></category>
+		<category><![CDATA[Scott]]></category>
+		<category><![CDATA[sightseeing]]></category>
+		<category><![CDATA[uk]]></category>
+		<guid isPermaLink="false">https://pastorscott.com/travel/?p=5166</guid>
+
+					<description><![CDATA[Our year volunteering at Nazarene Theological College, Manchester passed quickly. We very much enjoyed our neighborhood, Didsbury. There are many nice restaurants and shops in &#8220;the Village.&#8221; The area also has several beautiful parks. We loved the beautiful colors of autumn and spring. As you might guess we took many photos!]]></description>
+										<content:encoded><![CDATA[<p><iframe title="2023  - Around Didsbury, Manchester, UK" width="960" height="540" src="https://www.youtube.com/embed/yYiC8fICSoU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br />
+Our year volunteering at Nazarene Theological College, Manchester passed quickly.  We very much enjoyed our neighborhood, Didsbury.  There are many nice restaurants and shops in &#8220;the Village.&#8221;  The area also has several beautiful parks.  We loved the beautiful colors of autumn and spring.  As you might guess we took many photos!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
